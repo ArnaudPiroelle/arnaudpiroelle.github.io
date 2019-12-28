@@ -1,0 +1,42 @@
+# Site settings
+title: Arnaud Piroelle
+description: 'Un blog qui regroupe toutes mes bidouilles'
+url: 'http://joshgerdes.com/jekyll-uno'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Arnaud Piroelle'
+  profile_image: 'https://avatars0.githubusercontent.com/u/392405?s=1024&u=be7a61c6216ebe893856d336a5745e9df7eb6993&v=4'
+  twitter_username: ArnaudPiroelle
+  github_username:  ArnaudPiroelle
+  linkedin_username:  arnaud-piroelle-75257445
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
