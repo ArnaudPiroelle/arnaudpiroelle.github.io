@@ -1,6 +1,6 @@
 # Site settings
 title: Arnaud Piroelle
-description: 'Un blog qui regroupe toutes mes bidouilles'
+description: "Le bloc-note d'un maker"
 url: 'http://joshgerdes.com/jekyll-uno'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
