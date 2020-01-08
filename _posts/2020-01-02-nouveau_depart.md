@@ -3,6 +3,7 @@ title:  "Nouveau départ!"
 date:   2020-01-02 12:00:00
 categories: ["News"]
 tags: [news]
+comments: true
 ---
 
 Qui dit nouvelle année dit aussi bonne résolution. Cette année, je vais essayer de passer plus de temps à documenter ce que je fais sur mon temps libre. 
