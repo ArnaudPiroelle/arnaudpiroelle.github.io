@@ -8,6 +8,8 @@ comments: true
 
 Qui dit nouvelle année dit aussi bonne résolution. Cette année, je vais essayer de passer plus de temps à documenter ce que je fais sur mon temps libre. 
 
+<!--more-->
+
 Déjà pour moi, j'ai tendance à oublier ce que j'ai déjà fait. 
 Mais aussi pour les autres, le partage c'est toujours sympa!
 
