@@ -37,12 +37,12 @@ Pour commencer il vous faudra Visual Studio Code [disponible ici][VSCode] et l'e
 ### 2. Télécharger Marlin
 De mon coté, je récupère les sources de marlin directement via une commande *git*. Mais pour ceux que ca peut effrayer, MalinFW a eu le bon gout de proposer des liens de téléchargement direct:
 
-Description | Version | Download
------------- | ------------- | ----------
-Latest release *(supports AVR and ARM)* | 2.0.1 | [2.0.x.zip][DL Marlin 2.0.x]
-Marlin 2.0 with bug fixes | bugfix-2.0.x | [bugfix-2.0.x.zip][DL Marlin bugfix 2.0.x]
-Previous release *(supports AVR)* | 1.1.9 | [1.1.x.zip][DL Marlin 1.1.x]
-Marlin 1.1 with bug fixes | bugfix-1.1.x | [bugfix-1.1.x.zip][DL Marlin bugfix 1.1.x]
+              Description               |   Version    |                  Download
+--------------------------------------- | ------------ | ------------------------------------------
+Latest release *(supports AVR and ARM)* | 2.0.1        | [2.0.x.zip][DL Marlin 2.0.x]
+Marlin 2.0 with bug fixes               | bugfix-2.0.x | [bugfix-2.0.x.zip][DL Marlin bugfix 2.0.x]
+Previous release *(supports AVR)*       | 1.1.9        | [1.1.x.zip][DL Marlin 1.1.x]
+Marlin 1.1 with bug fixes               | bugfix-1.1.x | [bugfix-1.1.x.zip][DL Marlin bugfix 1.1.x]
 
 De manière générale, je conseille d'utiliser la version "bugfix". Souvent, cela permettra d'avoir accès aux derniers correctifs d'une version et de ne pas avoir les bugs déjà rencontrés par certains bidouilleurs avant vous.
 

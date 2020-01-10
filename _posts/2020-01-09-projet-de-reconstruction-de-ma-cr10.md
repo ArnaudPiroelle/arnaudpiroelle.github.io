@@ -41,14 +41,14 @@ Fonctionnalités que je voulais absolument:
 
 Mon choix s'est porté sur les composants suivants:
 
-Marque       | Composant         | Description                                                       | Prix
------------- | ----------------- | ----------------------------------------------------------------- | ----------
-E3D          | Hemera Direct Kit | Tête d'impression V6 12V avec système d'extrusion direct drive    | 126,88 €
-BIQU         | SKR V1.3          | Carte mère 32bit vierge sans driver                               |  25,99 €
-BIQU         | BLTouch           | Capteur de nivellement automatique                                |  42,99 € 
-BIGTREETECH  | TMC2209 V1.2 (x4) | Driver moteur                                                     |  19,72 €
-BIGTREETECH  | TFT35 V3.0        | Ecran tactile 3.5" couleur                                        |  25,03 €
-BIGTREETECH  | BTT SFS V1.0      | Détecteur de fin de filament                                      |  16,05 €
+  Marque    |     Composant     |                          Description                           |   Prix
+----------- | ----------------- | -------------------------------------------------------------- | --------
+E3D         | Hemera Direct Kit | Tête d'impression V6 12V avec système d'extrusion direct drive | 126,88 €
+BIQU        | SKR V1.3          | Carte mère 32bit vierge sans driver                            | 25,99 €
+BIQU        | BLTouch           | Capteur de nivellement automatique                             | 42,99 €
+BIGTREETECH | TMC2209 V1.2 (x4) | Driver moteur                                                  | 19,72 €
+BIGTREETECH | TFT35 V3.0        | Ecran tactile 3.5" couleur                                     | 25,03 €
+BIGTREETECH | BTT SFS V1.0      | Détecteur de fin de filament                                   | 16,05 €
 
 Niveau budget, on arrive à un total de 256,66 €. Ce n'est pas donné, c'est vrai.
 
